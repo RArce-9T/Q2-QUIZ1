@@ -1,0 +1,29 @@
+.header1{
+	background-color: peachpuff;
+	text-align: center;
+  font-family: "Sour Gummy", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "width" 100;
+}
+
+
+body {
+  background-image: url('https://usagif.com/wp-content/uploads/2022/fzk5d/phillipine-waving-flag-13-acegifcom.gif');
+  background-size: 1000px; 
+  background-repeat: 1 round
+}
+
+.row{
+  background-color: white;
+}
+
+.footer{
+  background-color: white;
+  text-align: center;
+  
+}
+
+
